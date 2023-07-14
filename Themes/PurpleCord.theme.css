@@ -1,0 +1,40 @@
+/**
+* @name PurpleCord
+* @version 0.1
+* @description Discord but purple
+* @author Piny
+* @website https://piny.tv
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://fonts.cdnfonts.com/css/whitney-2');
+@import url('https://discordstyles.github.io/SoftX/RadialGlow.css');
+:root {
+--background-image: url('https://pinymedia.web.app/daalbot/Gradient.png');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://pinymedia.web.app/daalbot/Gradient.png');
+--popout-modal-blur: 0px;
+--popout-modal-size: contain;
+--popout-modal-position: right;
+--home-button-image: linear-gradient(to right bottom, #b92ca1, #a72aa1, #9529a0, #82289e, #6e289c, #642a9f, #592ca3, #4c2ea6, #4732b0, #4037bb, #353cc6, #2341d1);
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.35;
+--left-brightness: 0.35;
+--middle-brightness: 0.4;
+--right-brightness: 0;
+--popout-modal-brightness: 0.45;
+--gradient-primary: 56,37,124;
+--gradient-secondary: 167,168,207;
+--gradient-direction: 320deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #502898;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Whitney';
+--update-notice-1: none;
+}
